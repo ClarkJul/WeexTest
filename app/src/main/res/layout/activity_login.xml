@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/btn_components"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="常用组件演示"/>
+    <Button
+        android:id="@+id/btn_modules"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="常用模块演示"/>
+    <Button
+        android:id="@+id/btn_common_demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="常见weex使用方式演示"/>
+    <Button
+        android:id="@+id/btn_complex__demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="样例演示"/>
+
+</LinearLayout>
